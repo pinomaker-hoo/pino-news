@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ls:*)",
+      "Bash(git config:*)",
+      "WebFetch(domain:table-spec.com)",
+      "WebFetch(domain:pinomaker-hoo.github.io)",
+      "WebFetch(domain:oliveyoung.tech)",
+      "WebFetch(domain:tech.kakaopay.com)",
+      "WebFetch(domain:tech.hyperithm.com)"
+    ]
+  }
+}
